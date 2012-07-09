@@ -3,7 +3,7 @@
 Plugin Name: Call to Action
 Plugin URI: http://www.jonbishop.com/downloads/wordpress-plugins/call-to-action
 Description: Displays the most relavent Call to Action in your sidebar based on the content of the page
-Version: 1.2
+Version: 1.3
 Author: Jon Bishop
 Author URI: http://www.jonbishop.com
 License: GPL2
