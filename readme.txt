@@ -1,10 +1,10 @@
 === Call to Action ===
 Contributors: JonBishop
 Donate link: http://www.jonbishop.com/donate/
-Tags: widget, call to action, marketing, content sidebar, promote, advertising, hubspot, cta, ad manager, ads
+Tags: widget, call to action, marketing, content sidebar, promote, advertising
 Requires at least: 3.0
-Tested up to: 3.4.1
-Stable tag: 1.3
+Tested up to: 3.0.1
+Stable tag: 1.2
 
 Displays the most relavent Call to Action in your sidebar based on the content of the page
 
@@ -31,10 +31,7 @@ The plugin also displays impressions and clicks.
 
 == Changelog ==
 
-The current version is 1.3 (2012.07.09)
-
-= 1.3 (2012.07.09) =
-* Added screenshots
+The current version is 1.2 (2010.12.06)
 
 = 1.2 (2010.12.06) =
 * Added screenshots

@@ -3,7 +3,7 @@
 Plugin Name: Call to Action
 Plugin URI: http://www.jonbishop.com/downloads/wordpress-plugins/call-to-action
 Description: Displays the most relavent Call to Action in your sidebar based on the content of the page
-Version: 1.3
+Version: 1.2
 Author: Jon Bishop
 Author URI: http://www.jonbishop.com
 License: GPL2
@@ -56,5 +56,9 @@ add_filter('manage_edit-ctaw_sortable_columns', 'ctaw_column_register_sortable')
 add_filter('posts_orderby', 'ctaw_column_orderby', 10, 2);
 add_action("manage_posts_custom_column", "ctaw_column");
 add_filter("manage_edit-ctaw_columns", "ctaw_columns");
+
+// Meta box
+add_action('admin_menu', 'ctaw_add_meta_box');
+add_action('save_post', 'ctaw_admin_process');
 
 ?>
